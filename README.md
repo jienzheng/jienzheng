@@ -1,5 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m Jien Zheng
 
+- 👀 I’m interested in
+- 🌱 I’m currently learning ...
 <!--
 **jienzheng/jienzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
