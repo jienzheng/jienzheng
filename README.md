@@ -1,6 +1,6 @@
 👋 Hi, I’m Jien Zheng
 - 👀 I’m interested in frontend, backend, and game design.
-- 💪 I’m looking to learn more.
+- 💪 I’m looking forward to learning more.
 - 🎓 I’m a 4th-year Computer Science major at San Diego State University.
 
 <!--
