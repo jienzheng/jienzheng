@@ -1,5 +1,6 @@
 👋 Hi, I’m Jien Zheng
-
+- 👀 I’m interested in frontend, backend, and game design.
+- 🎓 I’m a 4th-year Computer Science major at San Diego State University.
 
 <!--
 **jienzheng/jienzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
